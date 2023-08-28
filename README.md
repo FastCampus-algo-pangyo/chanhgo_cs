@@ -8,4 +8,5 @@ CS지식 정리
 <tr><td>2주차</td><td><a href = "https://deeply-buttercup-ac1.notion.site/b7c3041aae0e4a7eac26a3e6fc3bc32d?pvs=4">선형 자료구조</a></td></tr>
   </tr>
 <tr><td>3주차</td><td><a href = "https://deeply-buttercup-ac1.notion.site/1-326fbe0096b146afbe2ea7ae6ddebd88?pvs=4">비선형 자료구조1</a></td></tr>
+  <tr><td>5주차</td><td><a href = "https://deeply-buttercup-ac1.notion.site/75fe51e31f8a443e9a88241f8b410019?pvs=4">데이터베이스의 기본</a></td></tr>
 </table>
